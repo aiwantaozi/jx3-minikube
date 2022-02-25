@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - aiwantaozi/jx3-minikube
-      target_url: http://lighthouse-jx.192.168.64.4.nip.io/merge/status
+      target_url: http://lighthouse-jx.192.168.64.5.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
